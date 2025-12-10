@@ -1,0 +1,5 @@
+Dharani is learning how to build a tiny LLM.
+This model is very small but useful for understanding AI basics.
+Large Language Models learn patterns from text.
+With simple training, we can make the model predict the next word.
+AI is powerful because it learns from data, not rules.
